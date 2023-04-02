@@ -1,4 +1,4 @@
-OpenAI YouTube Story Generator
+OpenAI YouTube Story Generator + Google or AWS TTS voiceover + various side tools
 ==============================
 
 This project demonstrates how to use the OpenAI GPT-3 API to generate story ideas and automatically create a video compilation. The application is split into several scripts that perform different tasks such as generating text, downloading video clips, and synthesizing speech.
