@@ -1,0 +1,14 @@
+source "https://rubygems.org"
+
+gem "openai"
+gem "httparty"
+gem "aws-sdk-polly"
+gem "dotenv"
+gem "aws-sdk"
+gem "streamio-ffmpeg"
+gem "google-cloud-text_to_speech"
+gem 'google-api-client'
+gem 'rest-client'
+gem 'json'
+gem 'ffi'
+gem 'ffmpeg'
