@@ -47,6 +47,8 @@ GOOGLE_APPLICATION_CREDENTIALS=path_to_your_google_cloud_credentials_json_file**
 **Usage**
 1. Adjust the variables and parameters in each script to customize the story generation, video download, and text-to-speech options.
 2. Run the scripts in the order listed in the Readme to generate a story, download video clips, create a video compilation, and synthesize speech for the story.
-3. Combine the audio file with the video compilation to create a final video with a background story.
+3. I also use FL Studio to change voiceovers to match thematics I want. Example .flp files could be found it this repository too
+4. Then it all comes together in a single folder where you can use any video editor you like. 
+5. Combine the audio file with the video compilation to create a final video with a background story.
 
 Please note that you may need to modify the video and audio processing scripts to handle different video formats or adjust the audio processing
